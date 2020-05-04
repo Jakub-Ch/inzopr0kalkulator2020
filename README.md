@@ -7,3 +7,4 @@ Robimy go przy okazji nauki gita.
 To jest pierwszy commit ktory ma trafic na galaz testowa.
 
 galaz_testowa_2 zmienna 1
+galaz_testowa_2 zmiana 2
